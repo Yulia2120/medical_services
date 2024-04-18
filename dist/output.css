@@ -1038,11 +1038,11 @@ video {
 }
 
 .bg-departments {
-  background-image: url(assets/img/departments/bg.svg);
+  background-image: url(../../assets/img/departments/bg.svg);
 }
 
 .bg-services {
-  background-image: url(assets/img/services/bg.svg);
+  background-image: url(../../assets/img/services/bg.svg);
 }
 
 .bg-testimonials {
